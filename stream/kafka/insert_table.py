@@ -9,7 +9,7 @@ from postgresql_client import PostgresSQLClient
 load_dotenv()
 
 TABLE_NAME = "nyc_taxi_table"
-
+FOLDER_NAME = "/home/tung/Downloads/nyc_taxi_data"
 
 def main():
     pc = PostgresSQLClient(
@@ -28,10 +28,10 @@ def main():
         print(f"Failed to get schema for table with error: {e}")
 
     # Loop through Parquet files in nyc_taxi_data directory
-    for filename in os.listdir("/home/tung/Downloads/DE_K3_M2/nyc_taxi_data"):
+    for filename in os.listdir(FOLDER_NAME):
         if filename.endswith(".parquet") and filename.startswith("yellow"):
             filepath = os.path.join(
-                "/home/tung/Downloads/DE_K3_M2/nyc_taxi_data", filename
+                FOLDER_NAME, filename
             )
             print(f"Inserting: {filename}")
             # Read Parquet data
