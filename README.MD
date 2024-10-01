@@ -1,2 +1,1 @@
-bash stream/kafka/run.sh register_connector stream/kafka/con
-figs/postgresql-cdc.json
+bash stream/kafka/run.sh register_connector stream/kafka/configs/postgresql-cdc.json

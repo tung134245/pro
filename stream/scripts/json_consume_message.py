@@ -12,7 +12,7 @@ def main():
         }
     )
 
-    consumer.subscribe(["nyc_taxi.public.nyc_taxi"])
+    consumer.subscribe(["nyc_taxi.public.nyc_taxi_table"])
 
     # Read messages from Kafka
     try:

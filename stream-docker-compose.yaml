@@ -34,7 +34,8 @@ services:
       retries: 10
     environment:
       # ID of the broker in a cluster
-      KAFKA_BROKER_ID: 1
+      KAFKA_BROKER_ID:
+        1
         # Connect to Zoo Keeper for distributed coordination and leader election
       KAFKA_ZOOKEEPER_CONNECT: "zookeeper:2181"
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
@@ -151,10 +152,13 @@ services:
       - "8085:8080"
     environment:
       KAFKA_CONNECT_URIS: http://debezium:8083
+
+
+    # Simulation of sending messages to Kafka topics
   kafka_producer:
     container_name: flink-kafka-producer
     build:
-      context: ~/Downloads/DE/Project-DE-K3_M2/stream/flink/data_ingestion
+      context: /home/tung/Downloads/DE/Project-DE-K3_M2/stream/flink/data_ingestion
       dockerfile: kafka_producer/Dockerfile
     depends_on:
       broker:
