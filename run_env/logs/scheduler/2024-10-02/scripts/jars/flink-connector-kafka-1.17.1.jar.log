@@ -1,0 +1,940 @@
+[2024-10-02T06:54:47.939+0000] {processor.py:157} INFO - Started process (PID=73) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:54:47.940+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:54:47.942+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:54:47.942+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:54:47.944+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:54:47.952+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T06:55:18.750+0000] {processor.py:157} INFO - Started process (PID=99) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:55:18.753+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:55:18.754+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:55:18.754+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:55:18.755+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:55:18.762+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T06:55:49.208+0000] {processor.py:157} INFO - Started process (PID=125) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:55:49.212+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:55:49.213+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:55:49.213+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:55:49.215+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:55:49.223+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.016 seconds
+[2024-10-02T06:56:19.565+0000] {processor.py:157} INFO - Started process (PID=151) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:56:19.573+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:56:19.574+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:56:19.574+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:56:19.576+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:56:19.583+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.021 seconds
+[2024-10-02T06:56:49.947+0000] {processor.py:157} INFO - Started process (PID=177) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:56:49.951+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:56:49.952+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:56:49.952+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:56:49.954+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:56:49.960+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T06:57:20.287+0000] {processor.py:157} INFO - Started process (PID=203) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:57:20.309+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:57:20.311+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:57:20.310+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:57:20.314+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:57:20.329+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.044 seconds
+[2024-10-02T06:57:50.715+0000] {processor.py:157} INFO - Started process (PID=229) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:57:50.751+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:57:50.752+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:57:50.752+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:57:50.754+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:57:50.764+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.050 seconds
+[2024-10-02T06:58:21.052+0000] {processor.py:157} INFO - Started process (PID=255) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:58:21.060+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:58:21.061+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:58:21.061+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:58:21.063+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:58:21.071+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.021 seconds
+[2024-10-02T06:58:51.344+0000] {processor.py:157} INFO - Started process (PID=281) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:58:51.369+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:58:51.371+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:58:51.371+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:58:51.374+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:58:51.382+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.040 seconds
+[2024-10-02T06:59:21.789+0000] {processor.py:157} INFO - Started process (PID=307) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:59:21.795+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:59:21.796+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:59:21.796+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:59:21.797+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:59:21.804+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.017 seconds
+[2024-10-02T06:59:52.065+0000] {processor.py:157} INFO - Started process (PID=333) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:59:52.073+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T06:59:52.074+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:59:52.074+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:59:52.077+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T06:59:52.085+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.023 seconds
+[2024-10-02T07:00:22.373+0000] {processor.py:157} INFO - Started process (PID=359) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:00:22.382+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:00:22.383+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:00:22.383+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:00:22.385+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:00:22.393+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.022 seconds
+[2024-10-02T07:00:53.087+0000] {processor.py:157} INFO - Started process (PID=385) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:00:53.149+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:00:53.153+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:00:53.153+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:00:53.158+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:00:53.172+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.088 seconds
+[2024-10-02T07:01:24.064+0000] {processor.py:157} INFO - Started process (PID=411) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:01:24.175+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:01:24.176+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:01:24.176+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:01:24.177+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:01:24.566+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.504 seconds
+[2024-10-02T07:01:56.074+0000] {processor.py:157} INFO - Started process (PID=437) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:01:56.192+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:01:56.392+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:01:56.193+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:01:56.397+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:01:56.804+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.865 seconds
+[2024-10-02T07:02:27.001+0000] {processor.py:157} INFO - Started process (PID=463) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:02:27.029+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:02:27.032+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:02:27.031+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:02:27.036+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:02:27.052+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.053 seconds
+[2024-10-02T07:02:57.857+0000] {processor.py:157} INFO - Started process (PID=489) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:02:57.871+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:02:57.873+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:02:57.872+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:02:57.874+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:02:57.887+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.033 seconds
+[2024-10-02T07:03:28.338+0000] {processor.py:157} INFO - Started process (PID=515) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:03:28.355+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:03:28.357+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:03:28.357+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:03:28.359+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:03:28.367+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.032 seconds
+[2024-10-02T07:03:58.921+0000] {processor.py:157} INFO - Started process (PID=541) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:03:58.948+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:03:58.949+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:03:58.949+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:03:58.950+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:03:58.957+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.038 seconds
+[2024-10-02T07:04:29.258+0000] {processor.py:157} INFO - Started process (PID=567) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:04:29.259+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:04:29.260+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:04:29.260+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:04:29.261+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:04:29.270+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:04:59.568+0000] {processor.py:157} INFO - Started process (PID=593) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:04:59.583+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:04:59.584+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:04:59.584+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:04:59.586+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:04:59.595+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T07:05:30.374+0000] {processor.py:157} INFO - Started process (PID=619) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:05:30.374+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:05:30.375+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:05:30.375+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:05:30.377+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:05:30.385+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:06:00.775+0000] {processor.py:157} INFO - Started process (PID=645) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:06:00.826+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:06:00.827+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:06:00.827+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:06:00.829+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:06:00.837+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.064 seconds
+[2024-10-02T07:06:31.678+0000] {processor.py:157} INFO - Started process (PID=671) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:06:31.735+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:06:31.739+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:06:31.738+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:06:31.743+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:06:31.753+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.077 seconds
+[2024-10-02T07:07:02.139+0000] {processor.py:157} INFO - Started process (PID=697) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:07:02.140+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:07:02.141+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:07:02.141+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:07:02.143+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:07:02.149+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:07:32.908+0000] {processor.py:157} INFO - Started process (PID=723) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:07:32.931+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:07:32.934+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:07:32.934+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:07:32.937+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:07:32.947+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.041 seconds
+[2024-10-02T07:08:03.472+0000] {processor.py:157} INFO - Started process (PID=749) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:08:03.506+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:08:03.509+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:08:03.508+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:08:03.512+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:08:03.526+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.056 seconds
+[2024-10-02T07:08:34.450+0000] {processor.py:157} INFO - Started process (PID=775) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:08:34.471+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:08:34.473+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:08:34.473+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:08:34.476+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:08:34.486+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.038 seconds
+[2024-10-02T07:09:04.720+0000] {processor.py:157} INFO - Started process (PID=801) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:09:04.721+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:09:04.722+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:09:04.722+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:09:04.723+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:09:04.730+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:18:16.774+0000] {processor.py:157} INFO - Started process (PID=58) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:18:16.804+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:18:16.806+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:18:16.805+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:18:16.807+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:18:16.817+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.045 seconds
+[2024-10-02T07:18:47.748+0000] {processor.py:157} INFO - Started process (PID=91) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:18:47.748+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:18:47.749+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:18:47.749+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:18:47.751+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:18:47.759+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:19:18.200+0000] {processor.py:157} INFO - Started process (PID=117) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:19:18.227+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:19:18.229+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:19:18.229+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:19:18.231+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:19:18.247+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.049 seconds
+[2024-10-02T07:19:48.694+0000] {processor.py:157} INFO - Started process (PID=144) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:19:48.695+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:19:48.696+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:19:48.696+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:19:48.699+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:19:48.707+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:20:19.612+0000] {processor.py:157} INFO - Started process (PID=170) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:20:19.627+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:20:19.628+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:20:19.628+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:20:19.630+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:20:19.638+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.028 seconds
+[2024-10-02T07:20:50.138+0000] {processor.py:157} INFO - Started process (PID=196) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:20:50.169+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:20:50.170+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:20:50.170+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:20:50.172+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:20:50.182+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.046 seconds
+[2024-10-02T07:21:20.229+0000] {processor.py:157} INFO - Started process (PID=222) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:21:20.229+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:21:20.231+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:21:20.231+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:21:20.234+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:21:20.252+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.027 seconds
+[2024-10-02T07:21:50.535+0000] {processor.py:157} INFO - Started process (PID=248) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:21:50.557+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:21:50.558+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:21:50.558+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:21:50.560+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:21:50.568+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.035 seconds
+[2024-10-02T07:22:21.392+0000] {processor.py:157} INFO - Started process (PID=274) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:22:21.465+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:22:21.467+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:22:21.466+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:22:21.468+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:22:21.478+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.087 seconds
+[2024-10-02T07:22:51.695+0000] {processor.py:157} INFO - Started process (PID=300) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:22:51.724+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:22:51.725+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:22:51.725+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:22:51.727+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:22:51.737+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.044 seconds
+[2024-10-02T07:23:22.177+0000] {processor.py:157} INFO - Started process (PID=326) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:23:22.232+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:23:22.234+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:23:22.234+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:23:22.236+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:23:22.247+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.071 seconds
+[2024-10-02T07:23:52.418+0000] {processor.py:157} INFO - Started process (PID=352) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:23:52.463+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:23:52.464+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:23:52.464+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:23:52.465+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:23:52.472+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.056 seconds
+[2024-10-02T07:24:22.953+0000] {processor.py:157} INFO - Started process (PID=377) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:24:23.088+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:24:23.089+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:24:23.089+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:24:23.091+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:24:23.099+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.148 seconds
+[2024-10-02T07:24:53.871+0000] {processor.py:157} INFO - Started process (PID=397) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:24:53.896+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:24:53.898+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:24:53.897+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:24:53.900+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:24:53.964+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.095 seconds
+[2024-10-02T07:25:24.139+0000] {processor.py:157} INFO - Started process (PID=423) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:25:24.155+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:25:24.156+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:25:24.156+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:25:24.158+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:25:24.164+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.028 seconds
+[2024-10-02T07:25:54.821+0000] {processor.py:157} INFO - Started process (PID=449) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:25:54.911+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:25:54.914+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:25:54.914+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:25:54.919+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:25:54.937+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.118 seconds
+[2024-10-02T07:29:24.362+0000] {processor.py:157} INFO - Started process (PID=58) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:29:24.383+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:29:24.384+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:29:24.384+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:29:24.386+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:29:24.393+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.033 seconds
+[2024-10-02T07:29:55.438+0000] {processor.py:157} INFO - Started process (PID=84) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:29:55.442+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:29:55.444+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:29:55.444+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:29:55.448+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:29:55.460+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.026 seconds
+[2024-10-02T07:30:25.760+0000] {processor.py:157} INFO - Started process (PID=110) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:30:25.792+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:30:25.794+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:30:25.794+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:30:25.796+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:30:25.805+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.046 seconds
+[2024-10-02T07:30:56.720+0000] {processor.py:157} INFO - Started process (PID=143) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:30:56.731+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:30:56.733+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:30:56.732+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:30:56.734+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:30:56.742+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.024 seconds
+[2024-10-02T07:31:27.005+0000] {processor.py:157} INFO - Started process (PID=169) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:31:27.005+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:31:27.006+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:31:27.006+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:31:27.008+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:31:27.015+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:31:57.397+0000] {processor.py:157} INFO - Started process (PID=195) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:31:57.397+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:31:57.399+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:31:57.398+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:31:57.400+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:31:57.409+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:32:27.765+0000] {processor.py:157} INFO - Started process (PID=221) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:32:27.983+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:32:27.984+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:32:27.984+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:32:27.986+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:32:27.994+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.231 seconds
+[2024-10-02T07:32:58.441+0000] {processor.py:157} INFO - Started process (PID=247) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:32:58.442+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:32:58.443+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:32:58.443+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:32:58.445+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:32:58.452+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:33:28.701+0000] {processor.py:157} INFO - Started process (PID=273) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:33:28.707+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:33:28.708+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:33:28.708+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:33:28.710+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:33:28.717+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.018 seconds
+[2024-10-02T07:33:59.075+0000] {processor.py:157} INFO - Started process (PID=299) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:33:59.101+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:33:59.102+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:33:59.102+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:33:59.104+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:33:59.117+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.044 seconds
+[2024-10-02T07:34:29.678+0000] {processor.py:157} INFO - Started process (PID=325) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:34:29.696+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:34:29.698+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:34:29.697+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:34:29.702+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:34:29.713+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.038 seconds
+[2024-10-02T07:35:00.093+0000] {processor.py:157} INFO - Started process (PID=351) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:35:00.142+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:35:00.143+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:35:00.143+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:35:00.145+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:35:00.151+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.061 seconds
+[2024-10-02T07:35:30.805+0000] {processor.py:157} INFO - Started process (PID=377) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:35:30.813+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:35:30.814+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:35:30.814+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:35:30.816+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:35:30.824+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.021 seconds
+[2024-10-02T07:36:01.046+0000] {processor.py:157} INFO - Started process (PID=403) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:36:01.064+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:36:01.065+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:36:01.065+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:36:01.067+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:36:01.073+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T07:36:31.419+0000] {processor.py:157} INFO - Started process (PID=429) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:36:31.447+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:36:31.449+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:36:31.449+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:36:31.452+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:36:31.469+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.052 seconds
+[2024-10-02T07:37:01.822+0000] {processor.py:157} INFO - Started process (PID=455) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:37:01.843+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:37:01.845+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:37:01.845+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:37:01.847+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:37:01.854+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.035 seconds
+[2024-10-02T07:37:32.360+0000] {processor.py:157} INFO - Started process (PID=481) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:37:32.385+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:37:32.387+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:37:32.387+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:37:32.391+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:37:32.408+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.050 seconds
+[2024-10-02T07:38:02.855+0000] {processor.py:157} INFO - Started process (PID=507) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:38:02.877+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:38:02.878+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:38:02.878+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:38:02.881+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:38:02.895+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.042 seconds
+[2024-10-02T07:38:33.681+0000] {processor.py:157} INFO - Started process (PID=533) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:38:33.689+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:38:33.690+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:38:33.690+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:38:33.692+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:38:33.701+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.024 seconds
+[2024-10-02T07:39:04.069+0000] {processor.py:157} INFO - Started process (PID=559) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:39:04.070+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:39:04.072+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:39:04.071+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:39:04.074+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:39:04.081+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:39:34.724+0000] {processor.py:157} INFO - Started process (PID=585) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:39:34.748+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:39:34.749+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:39:34.749+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:39:34.752+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:39:34.766+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.043 seconds
+[2024-10-02T07:40:05.289+0000] {processor.py:157} INFO - Started process (PID=611) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:40:05.289+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:40:05.290+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:40:05.290+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:40:05.292+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:40:05.299+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:40:36.159+0000] {processor.py:157} INFO - Started process (PID=637) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:40:36.182+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:40:36.184+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:40:36.184+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:40:36.186+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:40:36.193+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.036 seconds
+[2024-10-02T07:41:07.024+0000] {processor.py:157} INFO - Started process (PID=663) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:41:07.024+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:41:07.025+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:41:07.025+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:41:07.027+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:41:07.035+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:41:37.388+0000] {processor.py:157} INFO - Started process (PID=689) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:41:37.516+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:41:37.520+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:41:37.519+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:41:37.524+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:41:37.541+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.155 seconds
+[2024-10-02T07:42:08.492+0000] {processor.py:157} INFO - Started process (PID=715) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:42:08.493+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:42:08.494+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:42:08.494+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:42:08.496+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:42:08.503+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:42:38.809+0000] {processor.py:157} INFO - Started process (PID=741) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:42:38.823+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:42:38.826+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:42:38.825+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:42:38.830+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:42:38.843+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.037 seconds
+[2024-10-02T07:43:09.362+0000] {processor.py:157} INFO - Started process (PID=767) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:43:09.362+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:43:09.364+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:43:09.363+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:43:09.365+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:43:09.373+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:43:39.669+0000] {processor.py:157} INFO - Started process (PID=793) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:43:39.682+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:43:39.683+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:43:39.683+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:43:39.685+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:43:39.693+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.025 seconds
+[2024-10-02T07:44:10.047+0000] {processor.py:157} INFO - Started process (PID=819) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:44:10.047+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:44:10.048+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:44:10.048+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:44:10.051+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:44:10.060+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:44:40.426+0000] {processor.py:157} INFO - Started process (PID=845) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:44:40.428+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:44:40.429+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:44:40.429+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:44:40.431+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:44:40.440+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.016 seconds
+[2024-10-02T07:45:10.818+0000] {processor.py:157} INFO - Started process (PID=871) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:45:10.819+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:45:10.820+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:45:10.820+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:45:10.822+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:45:10.830+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:45:41.169+0000] {processor.py:157} INFO - Started process (PID=897) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:45:41.268+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:45:41.271+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:45:41.270+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:45:41.276+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:45:41.286+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.118 seconds
+[2024-10-02T07:46:11.994+0000] {processor.py:157} INFO - Started process (PID=923) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:46:11.995+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:46:11.996+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:46:11.996+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:46:11.998+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:46:12.007+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:46:42.289+0000] {processor.py:157} INFO - Started process (PID=949) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:46:42.291+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:46:42.292+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:46:42.292+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:46:42.294+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:46:42.302+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:47:12.605+0000] {processor.py:157} INFO - Started process (PID=975) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:47:12.605+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:47:12.606+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:47:12.606+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:47:12.608+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:47:12.619+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.017 seconds
+[2024-10-02T07:47:43.141+0000] {processor.py:157} INFO - Started process (PID=1001) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:47:43.418+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:47:43.419+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:47:43.419+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:47:43.421+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:47:43.428+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.289 seconds
+[2024-10-02T07:48:13.967+0000] {processor.py:157} INFO - Started process (PID=1027) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:48:13.967+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:48:13.968+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:48:13.968+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:48:13.970+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:48:13.979+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:48:44.498+0000] {processor.py:157} INFO - Started process (PID=1053) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:48:44.519+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:48:44.520+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:48:44.520+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:48:44.523+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:48:44.534+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.038 seconds
+[2024-10-02T07:49:14.822+0000] {processor.py:157} INFO - Started process (PID=1079) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:49:14.823+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:49:14.824+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:49:14.824+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:49:14.826+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:49:14.835+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:49:45.471+0000] {processor.py:157} INFO - Started process (PID=1105) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:49:45.487+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:49:45.488+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:49:45.488+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:49:45.490+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:49:45.502+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.033 seconds
+[2024-10-02T07:50:15.746+0000] {processor.py:157} INFO - Started process (PID=1131) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:50:15.746+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:50:15.747+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:50:15.747+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:50:15.749+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:50:15.757+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:50:46.390+0000] {processor.py:157} INFO - Started process (PID=1157) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:50:46.596+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:50:46.600+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:50:46.600+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:50:46.604+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:50:46.624+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.236 seconds
+[2024-10-02T07:51:17.236+0000] {processor.py:157} INFO - Started process (PID=1183) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:51:17.237+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:51:17.239+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:51:17.239+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:51:17.242+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:51:17.249+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:51:47.883+0000] {processor.py:157} INFO - Started process (PID=1209) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:51:47.886+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:51:47.888+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:51:47.887+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:51:47.889+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:51:47.896+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:52:18.247+0000] {processor.py:157} INFO - Started process (PID=1235) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:52:18.247+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:52:18.249+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:52:18.249+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:52:18.250+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:52:18.259+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:52:48.646+0000] {processor.py:157} INFO - Started process (PID=1253) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:52:48.690+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:52:48.692+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:52:48.691+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:52:48.694+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:52:48.702+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.060 seconds
+[2024-10-02T07:53:19.404+0000] {processor.py:157} INFO - Started process (PID=1277) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:53:19.405+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:53:19.406+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:53:19.406+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:53:19.408+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:53:19.415+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:53:50.033+0000] {processor.py:157} INFO - Started process (PID=1303) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:53:50.074+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:53:50.076+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:53:50.075+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:53:50.078+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:53:50.086+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.056 seconds
+[2024-10-02T07:54:20.631+0000] {processor.py:157} INFO - Started process (PID=1329) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:54:20.692+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:54:20.694+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:54:20.694+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:54:20.698+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:54:20.713+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.087 seconds
+[2024-10-02T07:54:51.968+0000] {processor.py:157} INFO - Started process (PID=1356) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:54:52.063+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:54:52.064+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:54:52.064+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:54:52.065+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:54:52.074+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.108 seconds
+[2024-10-02T07:55:22.515+0000] {processor.py:157} INFO - Started process (PID=1382) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:55:22.515+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:55:22.516+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:55:22.516+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:55:22.518+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:55:22.525+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:55:52.813+0000] {processor.py:157} INFO - Started process (PID=1408) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:55:52.830+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:55:52.832+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:55:52.832+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:55:52.835+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:55:52.850+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.039 seconds
+[2024-10-02T07:56:23.401+0000] {processor.py:157} INFO - Started process (PID=1434) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:56:23.489+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:56:23.492+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:56:23.492+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:56:23.496+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:56:23.512+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.112 seconds
+[2024-10-02T07:56:53.694+0000] {processor.py:157} INFO - Started process (PID=1460) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:56:53.695+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:56:53.696+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:56:53.696+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:56:53.698+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:56:53.705+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:57:24.105+0000] {processor.py:157} INFO - Started process (PID=1486) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:57:24.119+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:57:24.121+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:57:24.121+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:57:24.125+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:57:24.141+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.039 seconds
+[2024-10-02T07:57:54.934+0000] {processor.py:157} INFO - Started process (PID=1512) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:57:54.935+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:57:54.938+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:57:54.937+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:57:54.942+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:57:54.959+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T07:58:25.616+0000] {processor.py:157} INFO - Started process (PID=1538) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:58:25.637+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:58:25.640+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:58:25.640+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:58:25.645+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:58:25.662+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.048 seconds
+[2024-10-02T07:58:56.284+0000] {processor.py:157} INFO - Started process (PID=1564) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:58:56.285+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:58:56.287+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:58:56.286+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:58:56.289+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:58:56.300+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.019 seconds
+[2024-10-02T07:59:27.543+0000] {processor.py:157} INFO - Started process (PID=1590) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:59:27.563+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:59:27.564+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:59:27.564+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:59:27.566+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:59:27.572+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.031 seconds
+[2024-10-02T07:59:58.051+0000] {processor.py:157} INFO - Started process (PID=1616) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:59:58.052+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T07:59:58.053+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:59:58.053+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:59:58.055+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T07:59:58.064+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:00:28.576+0000] {processor.py:157} INFO - Started process (PID=1642) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:00:28.605+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:00:28.607+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:00:28.606+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:00:28.608+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:00:28.618+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.043 seconds
+[2024-10-02T08:00:59.356+0000] {processor.py:157} INFO - Started process (PID=1668) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:00:59.373+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:00:59.374+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:00:59.374+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:00:59.377+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:00:59.384+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T08:01:30.379+0000] {processor.py:157} INFO - Started process (PID=1701) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:01:30.380+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:01:30.382+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:01:30.382+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:01:30.384+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:01:30.391+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.017 seconds
+[2024-10-02T08:02:00.831+0000] {processor.py:157} INFO - Started process (PID=1727) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:02:00.848+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:02:00.850+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:02:00.850+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:02:00.852+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:02:00.860+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.031 seconds
+[2024-10-02T08:02:31.249+0000] {processor.py:157} INFO - Started process (PID=1753) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:02:31.249+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:02:31.251+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:02:31.250+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:02:31.252+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:02:31.261+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:03:01.846+0000] {processor.py:157} INFO - Started process (PID=1779) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:03:01.866+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:03:01.867+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:03:01.867+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:03:01.869+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:03:01.881+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.038 seconds
+[2024-10-02T08:03:32.784+0000] {processor.py:157} INFO - Started process (PID=1805) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:03:32.784+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:03:32.785+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:03:32.785+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:03:32.787+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:03:32.794+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:04:03.412+0000] {processor.py:157} INFO - Started process (PID=1831) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:04:03.425+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:04:03.427+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:04:03.427+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:04:03.429+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:04:03.438+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T08:04:33.773+0000] {processor.py:157} INFO - Started process (PID=1857) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:04:33.774+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:04:33.775+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:04:33.775+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:04:33.776+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:04:33.785+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T08:05:04.456+0000] {processor.py:157} INFO - Started process (PID=1883) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:05:04.476+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:05:04.477+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:05:04.477+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:05:04.479+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:05:04.492+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.038 seconds
+[2024-10-02T08:05:34.796+0000] {processor.py:157} INFO - Started process (PID=1909) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:05:34.796+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:05:34.797+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:05:34.797+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:05:34.799+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:05:34.807+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T08:06:05.509+0000] {processor.py:157} INFO - Started process (PID=1935) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:06:05.526+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:06:05.528+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:06:05.528+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:06:05.530+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:06:05.536+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T08:06:35.893+0000] {processor.py:157} INFO - Started process (PID=1961) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:06:35.893+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:06:35.895+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:06:35.894+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:06:35.896+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:06:35.904+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T08:07:06.475+0000] {processor.py:157} INFO - Started process (PID=1987) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:07:06.494+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:07:06.495+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:07:06.495+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:07:06.497+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:07:06.503+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.030 seconds
+[2024-10-02T08:07:36.865+0000] {processor.py:157} INFO - Started process (PID=2013) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:07:36.865+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:07:36.866+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:07:36.866+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:07:36.868+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:07:36.875+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:08:07.198+0000] {processor.py:157} INFO - Started process (PID=2039) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:08:07.220+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:08:07.221+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:08:07.221+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:08:07.223+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:08:07.233+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.036 seconds
+[2024-10-02T08:08:37.558+0000] {processor.py:157} INFO - Started process (PID=2065) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:08:37.558+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:08:37.559+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:08:37.559+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:08:37.561+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:08:37.568+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:09:08.032+0000] {processor.py:157} INFO - Started process (PID=2091) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:09:08.033+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:09:08.034+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:09:08.034+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:09:08.037+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:09:08.044+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:09:38.158+0000] {processor.py:157} INFO - Started process (PID=2117) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:09:38.179+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:09:38.180+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:09:38.180+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:09:38.182+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:09:38.188+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.032 seconds
+[2024-10-02T08:10:08.725+0000] {processor.py:157} INFO - Started process (PID=2143) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:10:08.725+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:10:08.727+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:10:08.726+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:10:08.728+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:10:08.736+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:10:39.495+0000] {processor.py:157} INFO - Started process (PID=2169) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:10:39.669+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:10:39.672+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:10:39.672+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:10:39.676+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:10:39.686+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.193 seconds
+[2024-10-02T08:11:10.398+0000] {processor.py:157} INFO - Started process (PID=2195) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:11:10.399+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:11:10.400+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:11:10.400+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:11:10.403+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:11:10.411+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:11:40.743+0000] {processor.py:157} INFO - Started process (PID=2221) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:11:40.778+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:11:40.779+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:11:40.779+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:11:40.781+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:11:40.791+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.050 seconds
+[2024-10-02T08:12:11.159+0000] {processor.py:157} INFO - Started process (PID=2247) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:12:11.160+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:12:11.161+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:12:11.161+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:12:11.163+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:12:11.172+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:12:41.485+0000] {processor.py:157} INFO - Started process (PID=2273) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:12:41.514+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:12:41.516+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:12:41.515+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:12:41.518+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:12:41.535+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.053 seconds
+[2024-10-02T08:13:12.246+0000] {processor.py:157} INFO - Started process (PID=2299) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:13:12.247+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:13:12.248+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:13:12.248+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:13:12.249+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:13:12.256+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:13:42.677+0000] {processor.py:157} INFO - Started process (PID=2325) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:13:42.850+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:13:42.853+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:13:42.852+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:13:42.857+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:13:42.874+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.199 seconds
+[2024-10-02T08:14:13.274+0000] {processor.py:157} INFO - Started process (PID=2351) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:14:13.274+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:14:13.275+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:14:13.275+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:14:13.277+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:14:13.286+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:14:43.688+0000] {processor.py:157} INFO - Started process (PID=2377) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:14:43.699+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:14:43.700+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:14:43.700+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:14:43.702+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:14:43.708+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.023 seconds
+[2024-10-02T08:15:14.638+0000] {processor.py:157} INFO - Started process (PID=2403) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:15:14.638+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:15:14.640+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:15:14.639+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:15:14.641+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:15:14.649+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:15:45.039+0000] {processor.py:157} INFO - Started process (PID=2429) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:15:45.049+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:15:45.051+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:15:45.050+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:15:45.053+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:15:45.060+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.023 seconds
+[2024-10-02T08:16:15.485+0000] {processor.py:157} INFO - Started process (PID=2455) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:16:15.485+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:16:15.487+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:16:15.487+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:16:15.488+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:16:15.498+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:16:45.795+0000] {processor.py:157} INFO - Started process (PID=2481) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:16:45.823+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:16:45.824+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:16:45.824+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:16:45.826+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:16:45.836+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.042 seconds
+[2024-10-02T08:17:16.145+0000] {processor.py:157} INFO - Started process (PID=2499) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:17:16.146+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:17:16.147+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:17:16.147+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:17:16.149+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:17:16.156+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:17:47.054+0000] {processor.py:157} INFO - Started process (PID=2523) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:17:47.106+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:17:47.107+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:17:47.107+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:17:47.109+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:17:47.116+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.065 seconds
+[2024-10-02T08:18:17.478+0000] {processor.py:157} INFO - Started process (PID=2549) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:18:17.478+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:18:17.480+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:18:17.480+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:18:17.482+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:18:17.490+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:18:47.964+0000] {processor.py:157} INFO - Started process (PID=2575) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:18:47.979+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:18:47.981+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:18:47.981+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:18:47.984+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:18:47.993+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.031 seconds
+[2024-10-02T08:19:18.298+0000] {processor.py:157} INFO - Started process (PID=2601) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:19:18.298+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:19:18.299+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:19:18.299+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:19:18.301+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:19:18.309+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:19:48.369+0000] {processor.py:157} INFO - Started process (PID=2627) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:19:48.399+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:19:48.401+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:19:48.401+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:19:48.406+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:19:48.424+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.057 seconds
+[2024-10-02T08:20:18.671+0000] {processor.py:157} INFO - Started process (PID=2652) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:20:18.693+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:20:18.696+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:20:18.695+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:20:18.699+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:20:18.717+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.049 seconds
+[2024-10-02T08:20:49.237+0000] {processor.py:157} INFO - Started process (PID=2678) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:20:49.238+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:20:49.239+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:20:49.239+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:20:49.241+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:20:49.248+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:21:19.936+0000] {processor.py:157} INFO - Started process (PID=2704) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:21:19.948+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:21:19.949+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:21:19.949+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:21:19.951+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:21:19.958+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.024 seconds
+[2024-10-02T08:21:50.517+0000] {processor.py:157} INFO - Started process (PID=2730) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:21:50.517+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:21:50.518+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:21:50.518+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:21:50.520+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:21:50.529+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:22:20.852+0000] {processor.py:157} INFO - Started process (PID=2756) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:22:20.862+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:22:20.908+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:22:20.907+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:22:20.913+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:22:20.927+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.077 seconds
+[2024-10-02T08:22:51.370+0000] {processor.py:157} INFO - Started process (PID=2782) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:22:51.541+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:22:51.542+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:22:51.542+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:22:51.544+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:22:51.550+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.182 seconds
+[2024-10-02T08:23:21.907+0000] {processor.py:157} INFO - Started process (PID=2808) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:23:21.907+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:23:21.909+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:23:21.908+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:23:21.910+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:23:21.920+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:23:52.513+0000] {processor.py:157} INFO - Started process (PID=2834) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:23:52.543+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:23:52.544+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:23:52.544+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:23:52.546+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:23:52.554+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.043 seconds
+[2024-10-02T08:24:23.375+0000] {processor.py:157} INFO - Started process (PID=2860) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:24:23.375+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:24:23.376+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:24:23.376+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:24:23.378+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:24:23.387+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:24:53.598+0000] {processor.py:157} INFO - Started process (PID=2886) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:24:53.608+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:24:53.609+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:24:53.609+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:24:53.611+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:24:53.622+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.026 seconds
+[2024-10-02T08:25:24.148+0000] {processor.py:157} INFO - Started process (PID=2912) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:25:24.177+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:25:24.178+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:25:24.178+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:25:24.180+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:25:24.190+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.044 seconds
+[2024-10-02T08:25:55.027+0000] {processor.py:157} INFO - Started process (PID=2938) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:25:55.045+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:25:55.047+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:25:55.047+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:25:55.049+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:25:55.057+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.033 seconds
+[2024-10-02T08:26:25.925+0000] {processor.py:157} INFO - Started process (PID=2964) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:26:25.926+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:26:25.928+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:26:25.927+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:26:25.930+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:26:25.939+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.017 seconds
+[2024-10-02T08:26:56.628+0000] {processor.py:157} INFO - Started process (PID=2990) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:26:56.629+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:26:56.630+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:26:56.630+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:26:56.632+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:26:56.641+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.016 seconds
+[2024-10-02T08:27:27.479+0000] {processor.py:157} INFO - Started process (PID=3016) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:27:27.483+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:27:27.484+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:27:27.484+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:27:27.486+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:27:27.493+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.017 seconds
+[2024-10-02T08:27:57.888+0000] {processor.py:157} INFO - Started process (PID=3042) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:27:57.889+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:27:57.890+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:27:57.890+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:27:57.892+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:27:57.900+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:28:28.177+0000] {processor.py:157} INFO - Started process (PID=3068) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:28:28.177+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:28:28.179+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:28:28.179+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:28:28.180+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:28:28.188+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:28:58.705+0000] {processor.py:157} INFO - Started process (PID=3094) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:28:58.706+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:28:58.707+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:28:58.707+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:28:58.709+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:28:58.718+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T08:29:29.902+0000] {processor.py:157} INFO - Started process (PID=3120) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:29:29.913+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:29:29.914+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:29:29.914+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:29:29.916+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:29:29.922+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.023 seconds
+[2024-10-02T08:30:00.263+0000] {processor.py:157} INFO - Started process (PID=3146) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:30:00.263+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:30:00.264+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:30:00.264+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:30:00.266+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:30:00.275+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T08:30:30.551+0000] {processor.py:157} INFO - Started process (PID=3172) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:30:30.566+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:30:30.568+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:30:30.568+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:30:30.570+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:30:30.584+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.036 seconds
+[2024-10-02T08:31:01.530+0000] {processor.py:157} INFO - Started process (PID=3198) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:31:01.531+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:31:01.532+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:31:01.532+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:31:01.534+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:31:01.541+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:31:32.201+0000] {processor.py:157} INFO - Started process (PID=3224) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:31:32.244+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:31:32.246+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:31:32.246+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:31:32.248+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:31:32.258+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.058 seconds
+[2024-10-02T08:32:02.811+0000] {processor.py:157} INFO - Started process (PID=3250) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:32:02.811+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:32:02.813+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:32:02.812+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:32:02.814+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:32:02.825+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.016 seconds
+[2024-10-02T08:32:33.159+0000] {processor.py:157} INFO - Started process (PID=3283) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:32:33.198+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:32:33.201+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:32:33.201+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:32:33.206+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:32:33.224+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.067 seconds
+[2024-10-02T08:33:03.672+0000] {processor.py:157} INFO - Started process (PID=3309) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:33:03.741+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:33:03.743+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:33:03.743+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:33:03.746+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:33:03.756+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.087 seconds
+[2024-10-02T08:33:34.584+0000] {processor.py:157} INFO - Started process (PID=3335) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:33:34.585+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:33:34.586+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:33:34.586+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:33:34.588+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:33:34.598+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:34:04.911+0000] {processor.py:157} INFO - Started process (PID=3361) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:34:04.927+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:34:04.929+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:34:04.928+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:34:04.931+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:34:04.938+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T08:34:35.293+0000] {processor.py:157} INFO - Started process (PID=3387) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:34:35.293+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:34:35.294+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:34:35.294+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:34:35.296+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:34:35.303+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:35:05.643+0000] {processor.py:157} INFO - Started process (PID=3413) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:35:05.938+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:35:05.941+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:35:05.941+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:35:05.946+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:35:05.956+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.316 seconds
+[2024-10-02T08:35:36.294+0000] {processor.py:157} INFO - Started process (PID=3439) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:35:36.639+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:35:36.642+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:35:36.642+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:35:36.645+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:35:36.657+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.365 seconds
+[2024-10-02T08:36:07.080+0000] {processor.py:157} INFO - Started process (PID=3465) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:36:07.086+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:36:07.087+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:36:07.087+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:36:07.089+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:36:07.097+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.019 seconds
+[2024-10-02T08:36:37.445+0000] {processor.py:157} INFO - Started process (PID=3491) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:36:37.534+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:36:37.536+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:36:37.536+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:36:37.541+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:36:37.557+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.113 seconds
+[2024-10-02T08:37:08.155+0000] {processor.py:157} INFO - Started process (PID=3517) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:37:08.155+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:37:08.156+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:37:08.156+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:37:08.158+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:37:08.165+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:37:38.566+0000] {processor.py:157} INFO - Started process (PID=3543) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:37:38.566+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:37:38.567+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:37:38.567+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:37:38.569+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:37:38.575+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.011 seconds
+[2024-10-02T08:38:08.913+0000] {processor.py:157} INFO - Started process (PID=3569) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:38:08.913+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:38:08.914+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:38:08.914+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:38:08.916+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:38:08.924+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:38:39.269+0000] {processor.py:157} INFO - Started process (PID=3595) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:38:39.270+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:38:39.271+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:38:39.270+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:38:39.272+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:38:39.279+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:39:09.772+0000] {processor.py:157} INFO - Started process (PID=3621) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:39:09.788+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:39:09.789+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:39:09.789+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:39:09.791+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:39:09.800+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.029 seconds
+[2024-10-02T08:39:40.668+0000] {processor.py:157} INFO - Started process (PID=3647) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:39:40.669+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:39:40.746+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:39:40.746+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:39:40.748+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:39:40.754+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.089 seconds
+[2024-10-02T08:40:11.295+0000] {processor.py:157} INFO - Started process (PID=3673) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:40:11.308+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:40:11.309+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:40:11.309+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:40:11.311+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:40:11.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.033 seconds
+[2024-10-02T08:40:41.654+0000] {processor.py:157} INFO - Started process (PID=3699) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:40:41.654+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:40:41.655+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:40:41.655+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:40:41.657+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:40:41.666+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.014 seconds
+[2024-10-02T08:41:12.008+0000] {processor.py:157} INFO - Started process (PID=3725) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:41:12.027+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:41:12.031+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:41:12.031+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:41:12.035+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:41:12.053+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.047 seconds
+[2024-10-02T08:47:52.363+0000] {processor.py:157} INFO - Started process (PID=73) to work on /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:47:52.532+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar for tasks to queue
+[2024-10-02T08:47:52.533+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:47:52.533+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:47:52.535+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar
+[2024-10-02T08:47:52.543+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-connector-kafka-1.17.1.jar took 0.182 seconds

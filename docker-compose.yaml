@@ -96,6 +96,7 @@ services:
       - POSTGRES_PASSWORD=k6
     volumes:
       - dw_postgres_data:/var/lib/postgresql/data
+    # Offline store
 
 volumes:
   dw_postgres_data:

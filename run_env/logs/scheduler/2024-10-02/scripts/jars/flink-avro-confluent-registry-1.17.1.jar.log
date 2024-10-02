@@ -1,0 +1,940 @@
+[2024-10-02T06:54:48.153+0000] {processor.py:157} INFO - Started process (PID=74) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:54:48.153+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:54:48.154+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:54:48.154+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:54:48.155+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:54:48.162+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T06:55:18.765+0000] {processor.py:157} INFO - Started process (PID=100) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:55:18.766+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:55:18.799+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:55:18.798+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:55:18.800+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:55:18.812+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.048 seconds
+[2024-10-02T06:55:49.226+0000] {processor.py:157} INFO - Started process (PID=126) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:55:49.228+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:55:49.229+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:55:49.229+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:55:49.230+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:55:49.238+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T06:56:19.597+0000] {processor.py:157} INFO - Started process (PID=152) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:56:19.598+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:56:19.600+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:56:19.600+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:56:19.601+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:56:19.611+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.018 seconds
+[2024-10-02T06:56:49.960+0000] {processor.py:157} INFO - Started process (PID=178) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:56:49.967+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:56:49.968+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:56:49.968+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:56:49.969+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:56:49.975+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.017 seconds
+[2024-10-02T06:57:20.302+0000] {processor.py:157} INFO - Started process (PID=204) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:57:20.309+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:57:20.310+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:57:20.310+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:57:20.311+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:57:20.328+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.029 seconds
+[2024-10-02T06:57:50.745+0000] {processor.py:157} INFO - Started process (PID=230) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:57:50.751+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:57:50.752+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:57:50.752+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:57:50.753+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:57:50.764+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.020 seconds
+[2024-10-02T06:58:21.071+0000] {processor.py:157} INFO - Started process (PID=256) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:58:21.072+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:58:21.073+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:58:21.073+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:58:21.074+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:58:21.083+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T06:58:51.367+0000] {processor.py:157} INFO - Started process (PID=282) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:58:51.369+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:58:51.371+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:58:51.371+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:58:51.372+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:58:51.381+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.016 seconds
+[2024-10-02T06:59:21.811+0000] {processor.py:157} INFO - Started process (PID=308) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:59:21.812+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:59:21.813+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:59:21.813+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:59:21.814+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:59:21.822+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T06:59:52.086+0000] {processor.py:157} INFO - Started process (PID=334) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:59:52.087+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T06:59:52.089+0000] {logging_mixin.py:151} INFO - [2024-10-02T06:59:52.088+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:59:52.090+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T06:59:52.097+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:00:22.390+0000] {processor.py:157} INFO - Started process (PID=360) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:00:22.391+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:00:22.393+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:00:22.393+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:00:22.394+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:00:22.401+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:00:53.182+0000] {processor.py:157} INFO - Started process (PID=386) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:00:53.559+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:00:53.562+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:00:53.561+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:00:53.564+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:00:53.575+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.397 seconds
+[2024-10-02T07:01:24.580+0000] {processor.py:157} INFO - Started process (PID=412) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:01:24.697+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:01:24.699+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:01:24.699+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:01:24.700+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:01:24.708+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.131 seconds
+[2024-10-02T07:01:56.935+0000] {processor.py:157} INFO - Started process (PID=438) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:01:56.989+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:01:56.992+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:01:56.992+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:01:56.994+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:01:57.014+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.083 seconds
+[2024-10-02T07:02:28.023+0000] {processor.py:157} INFO - Started process (PID=464) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:02:28.033+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:02:28.034+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:02:28.034+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:02:28.035+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:02:28.044+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.023 seconds
+[2024-10-02T07:02:58.882+0000] {processor.py:157} INFO - Started process (PID=490) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:02:58.885+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:02:58.887+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:02:58.887+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:02:58.887+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:02:58.894+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:03:29.366+0000] {processor.py:157} INFO - Started process (PID=516) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:03:29.372+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:03:29.374+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:03:29.374+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:03:29.375+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:03:29.383+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.019 seconds
+[2024-10-02T07:03:59.952+0000] {processor.py:157} INFO - Started process (PID=542) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:03:59.953+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:03:59.954+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:03:59.954+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:03:59.955+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:03:59.964+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:04:30.271+0000] {processor.py:157} INFO - Started process (PID=568) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:04:30.271+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:04:30.272+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:04:30.272+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:04:30.273+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:04:30.280+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:05:00.627+0000] {processor.py:157} INFO - Started process (PID=594) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:05:00.642+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:05:00.643+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:05:00.643+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:05:00.644+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:05:00.653+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.030 seconds
+[2024-10-02T07:05:31.397+0000] {processor.py:157} INFO - Started process (PID=620) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:05:31.398+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:05:31.401+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:05:31.400+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:05:31.401+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:05:31.412+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.020 seconds
+[2024-10-02T07:06:01.813+0000] {processor.py:157} INFO - Started process (PID=646) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:06:01.826+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:06:01.827+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:06:01.827+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:06:01.829+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:06:01.836+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.026 seconds
+[2024-10-02T07:06:32.688+0000] {processor.py:157} INFO - Started process (PID=672) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:06:32.688+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:06:32.689+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:06:32.689+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:06:32.690+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:06:32.699+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:07:03.147+0000] {processor.py:157} INFO - Started process (PID=698) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:07:03.163+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:07:03.164+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:07:03.164+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:07:03.165+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:07:03.174+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.029 seconds
+[2024-10-02T07:07:33.964+0000] {processor.py:157} INFO - Started process (PID=724) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:07:33.987+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:07:33.988+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:07:33.988+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:07:33.989+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:07:33.999+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.038 seconds
+[2024-10-02T07:08:04.507+0000] {processor.py:157} INFO - Started process (PID=750) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:08:04.579+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:08:04.582+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:08:04.582+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:08:04.583+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:08:04.602+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.097 seconds
+[2024-10-02T07:08:35.472+0000] {processor.py:157} INFO - Started process (PID=776) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:08:35.475+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:08:35.476+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:08:35.476+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:08:35.477+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:08:35.486+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.017 seconds
+[2024-10-02T07:09:05.741+0000] {processor.py:157} INFO - Started process (PID=802) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:09:05.742+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:09:05.743+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:09:05.743+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:09:05.744+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:09:05.753+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:18:16.830+0000] {processor.py:157} INFO - Started process (PID=59) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:18:16.848+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:18:16.876+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:18:16.876+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:18:16.877+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:18:16.885+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.056 seconds
+[2024-10-02T07:18:47.756+0000] {processor.py:157} INFO - Started process (PID=92) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:18:47.757+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:18:47.758+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:18:47.757+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:18:47.758+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:18:47.765+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T07:19:18.217+0000] {processor.py:157} INFO - Started process (PID=118) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:19:18.227+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:19:18.230+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:19:18.229+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:19:18.231+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:19:18.240+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.025 seconds
+[2024-10-02T07:19:48.703+0000] {processor.py:157} INFO - Started process (PID=145) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:19:48.703+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:19:48.704+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:19:48.704+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:19:48.704+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:19:48.711+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:20:19.627+0000] {processor.py:157} INFO - Started process (PID=171) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:20:19.652+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:20:19.653+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:20:19.653+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:20:19.654+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:20:19.660+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.035 seconds
+[2024-10-02T07:20:50.175+0000] {processor.py:157} INFO - Started process (PID=197) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:20:50.204+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:20:50.205+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:20:50.205+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:20:50.205+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:20:50.214+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.041 seconds
+[2024-10-02T07:21:20.285+0000] {processor.py:157} INFO - Started process (PID=223) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:21:20.286+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:21:20.290+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:21:20.289+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:21:20.292+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:21:20.317+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.039 seconds
+[2024-10-02T07:21:50.580+0000] {processor.py:157} INFO - Started process (PID=249) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:21:50.879+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:21:50.880+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:21:50.880+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:21:50.881+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:21:50.889+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.310 seconds
+[2024-10-02T07:22:21.491+0000] {processor.py:157} INFO - Started process (PID=275) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:22:21.571+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:22:21.574+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:22:21.573+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:22:21.575+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:22:21.589+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.100 seconds
+[2024-10-02T07:22:51.716+0000] {processor.py:157} INFO - Started process (PID=301) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:22:51.724+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:22:51.725+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:22:51.725+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:22:51.726+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:22:51.734+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.020 seconds
+[2024-10-02T07:23:22.255+0000] {processor.py:157} INFO - Started process (PID=327) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:23:22.267+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:23:22.269+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:23:22.268+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:23:22.269+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:23:22.276+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.023 seconds
+[2024-10-02T07:23:52.450+0000] {processor.py:157} INFO - Started process (PID=353) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:23:52.463+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:23:52.464+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:23:52.463+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:23:52.464+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:23:52.474+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.026 seconds
+[2024-10-02T07:24:23.406+0000] {processor.py:157} INFO - Started process (PID=378) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:24:23.415+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:24:23.416+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:24:23.416+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:24:23.417+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:24:23.426+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.022 seconds
+[2024-10-02T07:24:53.979+0000] {processor.py:157} INFO - Started process (PID=398) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:24:53.981+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:24:53.982+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:24:53.982+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:24:53.982+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:24:53.991+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:25:24.178+0000] {processor.py:157} INFO - Started process (PID=424) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:25:24.198+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:25:24.202+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:25:24.201+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:25:24.204+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:25:24.222+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.047 seconds
+[2024-10-02T07:25:54.870+0000] {processor.py:157} INFO - Started process (PID=450) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:25:54.912+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:25:54.914+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:25:54.914+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:25:54.916+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:25:54.937+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.069 seconds
+[2024-10-02T07:29:24.407+0000] {processor.py:157} INFO - Started process (PID=59) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:29:24.436+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:29:24.449+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:29:24.449+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:29:24.451+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:29:24.471+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.067 seconds
+[2024-10-02T07:29:55.765+0000] {processor.py:157} INFO - Started process (PID=85) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:29:55.766+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:29:55.769+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:29:55.768+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:29:55.770+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:29:55.790+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.030 seconds
+[2024-10-02T07:30:25.821+0000] {processor.py:157} INFO - Started process (PID=111) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:30:25.887+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:30:25.890+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:30:25.889+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:30:25.891+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:30:25.909+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.090 seconds
+[2024-10-02T07:30:56.730+0000] {processor.py:157} INFO - Started process (PID=144) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:30:56.731+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:30:56.732+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:30:56.732+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:30:56.733+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:30:56.742+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:31:27.014+0000] {processor.py:157} INFO - Started process (PID=170) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:31:27.015+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:31:27.016+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:31:27.015+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:31:27.016+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:31:27.025+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:31:57.414+0000] {processor.py:157} INFO - Started process (PID=196) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:31:57.415+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:31:57.416+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:31:57.416+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:31:57.417+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:31:57.423+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:32:28.016+0000] {processor.py:157} INFO - Started process (PID=222) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:32:28.043+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:32:28.046+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:32:28.045+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:32:28.048+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:32:28.069+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.056 seconds
+[2024-10-02T07:32:58.458+0000] {processor.py:157} INFO - Started process (PID=248) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:32:58.459+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:32:58.460+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:32:58.459+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:32:58.460+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:32:58.469+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:33:28.715+0000] {processor.py:157} INFO - Started process (PID=274) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:33:28.732+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:33:28.734+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:33:28.734+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:33:28.736+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:33:28.753+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.040 seconds
+[2024-10-02T07:33:59.097+0000] {processor.py:157} INFO - Started process (PID=300) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:33:59.149+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:33:59.152+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:33:59.152+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:33:59.154+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:33:59.171+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.076 seconds
+[2024-10-02T07:34:29.715+0000] {processor.py:157} INFO - Started process (PID=326) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:34:29.733+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:34:29.735+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:34:29.735+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:34:29.737+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:34:29.752+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.039 seconds
+[2024-10-02T07:35:00.114+0000] {processor.py:157} INFO - Started process (PID=352) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:35:00.142+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:35:00.143+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:35:00.143+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:35:00.144+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:35:00.153+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.040 seconds
+[2024-10-02T07:35:30.834+0000] {processor.py:157} INFO - Started process (PID=378) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:35:30.847+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:35:30.849+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:35:30.849+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:35:30.850+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:35:30.860+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.029 seconds
+[2024-10-02T07:36:01.066+0000] {processor.py:157} INFO - Started process (PID=404) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:36:01.078+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:36:01.080+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:36:01.079+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:36:01.081+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:36:01.091+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.026 seconds
+[2024-10-02T07:36:31.434+0000] {processor.py:157} INFO - Started process (PID=430) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:36:31.448+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:36:31.450+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:36:31.450+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:36:31.451+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:36:31.469+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.036 seconds
+[2024-10-02T07:37:01.843+0000] {processor.py:157} INFO - Started process (PID=456) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:37:01.899+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:37:01.902+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:37:01.901+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:37:01.904+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:37:01.921+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.080 seconds
+[2024-10-02T07:37:32.380+0000] {processor.py:157} INFO - Started process (PID=482) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:37:32.407+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:37:32.410+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:37:32.410+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:37:32.412+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:37:32.425+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.048 seconds
+[2024-10-02T07:38:02.870+0000] {processor.py:157} INFO - Started process (PID=508) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:38:02.877+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:38:02.878+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:38:02.878+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:38:02.879+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:38:02.894+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.025 seconds
+[2024-10-02T07:38:33.711+0000] {processor.py:157} INFO - Started process (PID=534) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:38:33.880+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:38:33.883+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:38:33.883+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:38:33.886+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:38:33.902+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.193 seconds
+[2024-10-02T07:39:04.081+0000] {processor.py:157} INFO - Started process (PID=560) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:39:04.082+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:39:04.083+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:39:04.082+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:39:04.084+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:39:04.090+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:39:34.743+0000] {processor.py:157} INFO - Started process (PID=586) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:39:34.756+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:39:34.759+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:39:34.759+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:39:34.761+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:39:34.779+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.038 seconds
+[2024-10-02T07:40:05.300+0000] {processor.py:157} INFO - Started process (PID=612) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:40:05.300+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:40:05.301+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:40:05.301+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:40:05.302+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:40:05.312+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:40:36.177+0000] {processor.py:157} INFO - Started process (PID=638) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:40:36.188+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:40:36.190+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:40:36.190+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:40:36.191+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:40:36.198+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.023 seconds
+[2024-10-02T07:41:07.032+0000] {processor.py:157} INFO - Started process (PID=664) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:41:07.033+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:41:07.034+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:41:07.034+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:41:07.034+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:41:07.041+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T07:41:37.405+0000] {processor.py:157} INFO - Started process (PID=690) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:41:37.523+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:41:37.526+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:41:37.526+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:41:37.528+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:41:37.543+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.140 seconds
+[2024-10-02T07:42:08.498+0000] {processor.py:157} INFO - Started process (PID=716) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:42:08.498+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:42:08.499+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:42:08.499+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:42:08.500+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:42:08.507+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T07:42:38.815+0000] {processor.py:157} INFO - Started process (PID=742) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:42:38.832+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:42:38.833+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:42:38.833+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:42:38.835+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:42:38.847+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.034 seconds
+[2024-10-02T07:43:09.368+0000] {processor.py:157} INFO - Started process (PID=768) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:43:09.369+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:43:09.370+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:43:09.370+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:43:09.371+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:43:09.378+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:43:39.674+0000] {processor.py:157} INFO - Started process (PID=794) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:43:39.693+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:43:39.694+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:43:39.694+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:43:39.694+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:43:39.703+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.030 seconds
+[2024-10-02T07:44:10.052+0000] {processor.py:157} INFO - Started process (PID=820) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:44:10.052+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:44:10.053+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:44:10.053+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:44:10.054+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:44:10.060+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T07:44:40.430+0000] {processor.py:157} INFO - Started process (PID=846) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:44:40.444+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:44:40.445+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:44:40.445+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:44:40.445+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:44:40.453+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.024 seconds
+[2024-10-02T07:45:10.823+0000] {processor.py:157} INFO - Started process (PID=872) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:45:10.824+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:45:10.825+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:45:10.825+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:45:10.825+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:45:10.833+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:45:41.174+0000] {processor.py:157} INFO - Started process (PID=898) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:45:41.284+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:45:41.286+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:45:41.286+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:45:41.287+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:45:41.294+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.121 seconds
+[2024-10-02T07:46:11.999+0000] {processor.py:157} INFO - Started process (PID=924) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:46:11.999+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:46:12.000+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:46:12.000+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:46:12.001+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:46:12.008+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T07:46:42.293+0000] {processor.py:157} INFO - Started process (PID=950) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:46:42.302+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:46:42.303+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:46:42.303+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:46:42.304+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:46:42.317+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.025 seconds
+[2024-10-02T07:47:12.610+0000] {processor.py:157} INFO - Started process (PID=976) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:47:12.610+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:47:12.613+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:47:12.613+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:47:12.614+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:47:12.624+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.016 seconds
+[2024-10-02T07:47:43.145+0000] {processor.py:157} INFO - Started process (PID=1002) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:47:43.437+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:47:43.438+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:47:43.438+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:47:43.439+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:47:43.447+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.303 seconds
+[2024-10-02T07:48:13.972+0000] {processor.py:157} INFO - Started process (PID=1028) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:48:13.973+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:48:13.974+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:48:13.974+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:48:13.974+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:48:13.981+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T07:48:44.503+0000] {processor.py:157} INFO - Started process (PID=1054) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:48:44.538+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:48:44.539+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:48:44.539+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:48:44.540+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:48:44.549+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.048 seconds
+[2024-10-02T07:49:14.827+0000] {processor.py:157} INFO - Started process (PID=1080) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:49:14.828+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:49:14.829+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:49:14.829+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:49:14.830+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:49:14.837+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T07:49:45.476+0000] {processor.py:157} INFO - Started process (PID=1106) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:49:45.487+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:49:45.488+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:49:45.488+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:49:45.488+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:49:45.498+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.023 seconds
+[2024-10-02T07:50:15.751+0000] {processor.py:157} INFO - Started process (PID=1132) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:50:15.753+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:50:15.754+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:50:15.754+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:50:15.755+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:50:15.762+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:50:46.394+0000] {processor.py:157} INFO - Started process (PID=1158) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:50:46.615+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:50:46.618+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:50:46.617+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:50:46.620+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:50:46.634+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.242 seconds
+[2024-10-02T07:51:17.243+0000] {processor.py:157} INFO - Started process (PID=1184) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:51:17.243+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:51:17.244+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:51:17.244+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:51:17.245+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:51:17.254+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T07:51:47.888+0000] {processor.py:157} INFO - Started process (PID=1210) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:51:47.889+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:51:47.890+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:51:47.890+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:51:47.891+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:51:47.898+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:52:18.251+0000] {processor.py:157} INFO - Started process (PID=1236) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:52:18.251+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:52:18.253+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:52:18.252+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:52:18.253+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:52:18.260+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:52:48.649+0000] {processor.py:157} INFO - Started process (PID=1254) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:52:48.675+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:52:48.676+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:52:48.676+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:52:48.677+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:52:48.683+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.036 seconds
+[2024-10-02T07:53:19.409+0000] {processor.py:157} INFO - Started process (PID=1278) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:53:19.410+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:53:19.411+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:53:19.411+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:53:19.412+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:53:19.417+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T07:53:50.037+0000] {processor.py:157} INFO - Started process (PID=1304) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:53:50.051+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:53:50.052+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:53:50.052+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:53:50.053+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:53:50.062+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.027 seconds
+[2024-10-02T07:54:20.631+0000] {processor.py:157} INFO - Started process (PID=1330) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:54:20.691+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:54:20.695+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:54:20.694+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:54:20.696+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:54:20.710+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.083 seconds
+[2024-10-02T07:54:50.889+0000] {processor.py:157} INFO - Started process (PID=1355) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:54:50.902+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:54:50.905+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:54:50.905+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:54:50.907+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:54:50.926+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.040 seconds
+[2024-10-02T07:55:21.491+0000] {processor.py:157} INFO - Started process (PID=1381) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:55:21.491+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:55:21.492+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:55:21.492+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:55:21.493+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:55:21.499+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T07:55:51.775+0000] {processor.py:157} INFO - Started process (PID=1407) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:55:51.786+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:55:51.790+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:55:51.790+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:55:51.792+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:55:51.812+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.039 seconds
+[2024-10-02T07:56:22.390+0000] {processor.py:157} INFO - Started process (PID=1433) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:56:22.391+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:56:22.395+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:56:22.394+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:56:22.396+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:56:22.408+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.021 seconds
+[2024-10-02T07:56:52.668+0000] {processor.py:157} INFO - Started process (PID=1459) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:56:52.679+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:56:52.681+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:56:52.681+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:56:52.683+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:56:52.700+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.037 seconds
+[2024-10-02T07:57:23.215+0000] {processor.py:157} INFO - Started process (PID=1485) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:57:23.216+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:57:23.217+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:57:23.217+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:57:23.218+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:57:23.227+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T07:57:53.901+0000] {processor.py:157} INFO - Started process (PID=1511) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:57:53.913+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:57:53.915+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:57:53.915+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:57:53.917+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:57:53.933+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.038 seconds
+[2024-10-02T07:58:24.796+0000] {processor.py:157} INFO - Started process (PID=1537) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:58:24.797+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:58:24.798+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:58:24.798+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:58:24.799+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:58:24.806+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.014 seconds
+[2024-10-02T07:58:55.119+0000] {processor.py:157} INFO - Started process (PID=1563) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:58:55.147+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:58:55.150+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:58:55.150+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:58:55.152+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:58:55.172+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.056 seconds
+[2024-10-02T07:59:25.597+0000] {processor.py:157} INFO - Started process (PID=1589) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:59:25.597+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:59:25.598+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:59:25.598+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:59:25.599+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:59:25.611+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.019 seconds
+[2024-10-02T07:59:56.006+0000] {processor.py:157} INFO - Started process (PID=1615) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:59:56.023+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T07:59:56.027+0000] {logging_mixin.py:151} INFO - [2024-10-02T07:59:56.026+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:59:56.028+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T07:59:56.038+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.034 seconds
+[2024-10-02T08:00:26.546+0000] {processor.py:157} INFO - Started process (PID=1641) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:00:26.548+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:00:26.550+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:00:26.550+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:00:26.551+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:00:26.559+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:00:57.304+0000] {processor.py:157} INFO - Started process (PID=1667) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:00:57.333+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:00:57.336+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:00:57.336+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:00:57.338+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:00:57.357+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.057 seconds
+[2024-10-02T08:01:28.311+0000] {processor.py:157} INFO - Started process (PID=1693) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:01:28.312+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:01:28.314+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:01:28.313+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:01:28.314+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:01:28.322+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:01:58.766+0000] {processor.py:157} INFO - Started process (PID=1719) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:01:58.788+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:01:58.791+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:01:58.791+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:01:58.793+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:01:58.809+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.047 seconds
+[2024-10-02T08:02:29.208+0000] {processor.py:157} INFO - Started process (PID=1745) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:02:29.209+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:02:29.212+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:02:29.211+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:02:29.213+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:02:29.226+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.020 seconds
+[2024-10-02T08:02:59.800+0000] {processor.py:157} INFO - Started process (PID=1778) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:02:59.814+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:02:59.817+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:02:59.817+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:02:59.819+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:02:59.835+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.038 seconds
+[2024-10-02T08:03:30.737+0000] {processor.py:157} INFO - Started process (PID=1804) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:03:30.747+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:03:30.750+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:03:30.750+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:03:30.752+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:03:30.766+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.030 seconds
+[2024-10-02T08:04:01.372+0000] {processor.py:157} INFO - Started process (PID=1830) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:04:01.372+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:04:01.374+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:04:01.374+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:04:01.375+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:04:01.382+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:04:31.714+0000] {processor.py:157} INFO - Started process (PID=1856) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:04:31.715+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:04:31.718+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:04:31.718+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:04:31.719+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:04:31.731+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.022 seconds
+[2024-10-02T08:05:02.411+0000] {processor.py:157} INFO - Started process (PID=1882) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:05:02.427+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:05:02.430+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:05:02.430+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:05:02.432+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:05:02.447+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.038 seconds
+[2024-10-02T08:05:32.760+0000] {processor.py:157} INFO - Started process (PID=1908) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:05:32.761+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:05:32.763+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:05:32.763+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:05:32.765+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:05:32.782+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.027 seconds
+[2024-10-02T08:06:03.473+0000] {processor.py:157} INFO - Started process (PID=1934) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:06:03.495+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:06:03.497+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:06:03.497+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:06:03.499+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:06:03.515+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.044 seconds
+[2024-10-02T08:06:33.853+0000] {processor.py:157} INFO - Started process (PID=1960) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:06:33.854+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:06:33.857+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:06:33.856+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:06:33.859+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:06:33.876+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.027 seconds
+[2024-10-02T08:07:04.430+0000] {processor.py:157} INFO - Started process (PID=1986) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:07:04.446+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:07:04.448+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:07:04.448+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:07:04.450+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:07:04.467+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.041 seconds
+[2024-10-02T08:07:34.794+0000] {processor.py:157} INFO - Started process (PID=2012) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:07:34.795+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:07:34.798+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:07:34.797+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:07:34.799+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:07:34.816+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.028 seconds
+[2024-10-02T08:08:05.157+0000] {processor.py:157} INFO - Started process (PID=2038) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:08:05.222+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:08:05.224+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:08:05.224+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:08:05.226+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:08:05.242+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.088 seconds
+[2024-10-02T08:08:35.510+0000] {processor.py:157} INFO - Started process (PID=2064) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:08:35.511+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:08:35.513+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:08:35.513+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:08:35.515+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:08:35.533+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.028 seconds
+[2024-10-02T08:09:05.971+0000] {processor.py:157} INFO - Started process (PID=2090) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:09:06.006+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:09:06.008+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:09:06.008+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:09:06.010+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:09:06.028+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.061 seconds
+[2024-10-02T08:09:36.118+0000] {processor.py:157} INFO - Started process (PID=2116) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:09:36.119+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:09:36.122+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:09:36.122+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:09:36.124+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:09:36.141+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.030 seconds
+[2024-10-02T08:10:06.688+0000] {processor.py:157} INFO - Started process (PID=2142) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:10:06.703+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:10:06.705+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:10:06.705+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:10:06.707+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:10:06.729+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.044 seconds
+[2024-10-02T08:10:37.426+0000] {processor.py:157} INFO - Started process (PID=2168) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:10:37.595+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:10:37.598+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:10:37.598+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:10:37.600+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:10:37.617+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.194 seconds
+[2024-10-02T08:11:08.352+0000] {processor.py:157} INFO - Started process (PID=2194) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:11:08.362+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:11:08.365+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:11:08.364+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:11:08.366+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:11:08.384+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.035 seconds
+[2024-10-02T08:11:38.701+0000] {processor.py:157} INFO - Started process (PID=2220) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:11:38.702+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:11:38.706+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:11:38.705+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:11:38.707+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:11:38.719+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.022 seconds
+[2024-10-02T08:12:09.119+0000] {processor.py:157} INFO - Started process (PID=2246) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:12:09.138+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:12:09.142+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:12:09.141+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:12:09.144+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:12:09.161+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.044 seconds
+[2024-10-02T08:12:39.452+0000] {processor.py:157} INFO - Started process (PID=2272) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:12:39.453+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:12:39.454+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:12:39.454+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:12:39.455+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:12:39.463+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:13:10.183+0000] {processor.py:157} INFO - Started process (PID=2298) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:13:10.196+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:13:10.198+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:13:10.198+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:13:10.198+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:13:10.207+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.026 seconds
+[2024-10-02T08:13:40.635+0000] {processor.py:157} INFO - Started process (PID=2324) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:13:40.636+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:13:40.637+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:13:40.637+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:13:40.639+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:13:40.649+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.016 seconds
+[2024-10-02T08:14:11.227+0000] {processor.py:157} INFO - Started process (PID=2350) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:14:11.229+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:14:11.232+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:14:11.231+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:14:11.233+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:14:11.247+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.025 seconds
+[2024-10-02T08:14:41.664+0000] {processor.py:157} INFO - Started process (PID=2376) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:14:41.664+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:14:41.667+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:14:41.667+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:14:41.668+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:14:41.680+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.020 seconds
+[2024-10-02T08:15:12.584+0000] {processor.py:157} INFO - Started process (PID=2402) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:15:12.592+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:15:12.594+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:15:12.594+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:15:12.596+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:15:12.613+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.031 seconds
+[2024-10-02T08:15:42.925+0000] {processor.py:157} INFO - Started process (PID=2425) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:15:42.926+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:15:42.927+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:15:42.927+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:15:42.927+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:15:42.936+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:16:13.374+0000] {processor.py:157} INFO - Started process (PID=2444) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:16:13.460+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:16:13.461+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:16:13.461+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:16:13.462+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:16:13.470+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.098 seconds
+[2024-10-02T08:16:44.839+0000] {processor.py:157} INFO - Started process (PID=2470) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:16:44.840+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:16:44.842+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:16:44.841+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:16:44.842+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:16:44.852+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:17:15.491+0000] {processor.py:157} INFO - Started process (PID=2496) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:17:15.502+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:17:15.504+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:17:15.503+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:17:15.504+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:17:15.512+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.024 seconds
+[2024-10-02T08:17:46.034+0000] {processor.py:157} INFO - Started process (PID=2522) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:17:46.035+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:17:46.038+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:17:46.037+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:17:46.039+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:17:46.054+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.025 seconds
+[2024-10-02T08:18:16.433+0000] {processor.py:157} INFO - Started process (PID=2548) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:18:16.451+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:18:16.453+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:18:16.453+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:18:16.455+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:18:16.473+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.044 seconds
+[2024-10-02T08:18:46.919+0000] {processor.py:157} INFO - Started process (PID=2574) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:18:46.920+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:18:46.921+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:18:46.921+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:18:46.922+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:18:46.929+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:19:17.239+0000] {processor.py:157} INFO - Started process (PID=2600) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:19:17.257+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:19:17.259+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:19:17.259+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:19:17.261+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:19:17.278+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.044 seconds
+[2024-10-02T08:19:48.032+0000] {processor.py:157} INFO - Started process (PID=2626) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:19:48.170+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:19:48.315+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:19:48.314+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:19:48.316+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:19:48.334+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.304 seconds
+[2024-10-02T08:20:18.674+0000] {processor.py:157} INFO - Started process (PID=2653) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:20:18.712+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:20:18.715+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:20:18.714+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:20:18.717+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:20:18.735+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.062 seconds
+[2024-10-02T08:20:49.243+0000] {processor.py:157} INFO - Started process (PID=2679) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:20:49.243+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:20:49.244+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:20:49.244+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:20:49.245+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:20:49.253+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:21:19.942+0000] {processor.py:157} INFO - Started process (PID=2705) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:21:19.960+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:21:19.962+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:21:19.962+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:21:19.962+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:21:19.971+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.031 seconds
+[2024-10-02T08:21:50.521+0000] {processor.py:157} INFO - Started process (PID=2731) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:21:50.522+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:21:50.523+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:21:50.523+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:21:50.523+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:21:50.530+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T08:22:20.858+0000] {processor.py:157} INFO - Started process (PID=2757) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:22:20.907+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:22:20.910+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:22:20.910+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:22:20.912+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:22:20.925+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.069 seconds
+[2024-10-02T08:22:51.375+0000] {processor.py:157} INFO - Started process (PID=2783) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:22:51.541+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:22:51.542+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:22:51.542+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:22:51.543+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:22:51.550+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.177 seconds
+[2024-10-02T08:23:21.913+0000] {processor.py:157} INFO - Started process (PID=2809) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:23:21.914+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:23:21.915+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:23:21.915+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:23:21.916+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:23:21.923+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:23:52.518+0000] {processor.py:157} INFO - Started process (PID=2835) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:23:52.529+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:23:52.530+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:23:52.530+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:23:52.530+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:23:52.539+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.022 seconds
+[2024-10-02T08:24:23.379+0000] {processor.py:157} INFO - Started process (PID=2861) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:24:23.379+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:24:23.380+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:24:23.380+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:24:23.381+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:24:23.387+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T08:24:53.604+0000] {processor.py:157} INFO - Started process (PID=2887) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:24:53.625+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:24:53.627+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:24:53.627+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:24:53.629+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:24:53.644+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.043 seconds
+[2024-10-02T08:25:24.154+0000] {processor.py:157} INFO - Started process (PID=2913) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:25:24.165+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:25:24.166+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:25:24.166+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:25:24.166+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:25:24.173+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.021 seconds
+[2024-10-02T08:25:55.031+0000] {processor.py:157} INFO - Started process (PID=2939) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:25:55.045+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:25:55.047+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:25:55.047+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:25:55.048+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:25:55.057+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.028 seconds
+[2024-10-02T08:26:25.929+0000] {processor.py:157} INFO - Started process (PID=2965) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:26:25.933+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:26:25.934+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:26:25.934+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:26:25.935+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:26:25.943+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.016 seconds
+[2024-10-02T08:26:56.631+0000] {processor.py:157} INFO - Started process (PID=2991) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:26:56.632+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:26:56.633+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:26:56.633+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:26:56.634+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:26:56.641+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:27:27.484+0000] {processor.py:157} INFO - Started process (PID=3017) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:27:27.498+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:27:27.500+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:27:27.499+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:27:27.500+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:27:27.507+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.025 seconds
+[2024-10-02T08:27:57.891+0000] {processor.py:157} INFO - Started process (PID=3043) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:27:57.908+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:27:57.910+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:27:57.910+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:27:57.910+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:27:57.917+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.027 seconds
+[2024-10-02T08:28:28.181+0000] {processor.py:157} INFO - Started process (PID=3069) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:28:28.182+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:28:28.183+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:28:28.183+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:28:28.184+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:28:28.190+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T08:28:58.712+0000] {processor.py:157} INFO - Started process (PID=3095) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:28:58.726+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:28:58.728+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:28:58.728+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:28:58.729+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:28:58.737+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.027 seconds
+[2024-10-02T08:29:29.907+0000] {processor.py:157} INFO - Started process (PID=3121) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:29:29.913+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:29:29.914+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:29:29.914+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:29:29.915+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:29:29.922+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.016 seconds
+[2024-10-02T08:30:00.268+0000] {processor.py:157} INFO - Started process (PID=3147) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:30:00.269+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:30:00.270+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:30:00.270+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:30:00.271+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:30:00.282+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:30:30.555+0000] {processor.py:157} INFO - Started process (PID=3173) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:30:30.573+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:30:30.574+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:30:30.574+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:30:30.575+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:30:30.585+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.032 seconds
+[2024-10-02T08:31:01.536+0000] {processor.py:157} INFO - Started process (PID=3199) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:31:01.537+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:31:01.538+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:31:01.538+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:31:01.539+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:31:01.547+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:31:32.207+0000] {processor.py:157} INFO - Started process (PID=3225) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:31:32.242+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:31:32.245+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:31:32.244+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:31:32.246+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:31:32.257+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.052 seconds
+[2024-10-02T08:32:02.817+0000] {processor.py:157} INFO - Started process (PID=3251) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:32:02.818+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:32:02.820+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:32:02.819+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:32:02.821+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:32:02.833+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.018 seconds
+[2024-10-02T08:32:33.164+0000] {processor.py:157} INFO - Started process (PID=3284) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:32:33.195+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:32:33.198+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:32:33.197+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:32:33.200+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:32:33.222+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.060 seconds
+[2024-10-02T08:33:03.677+0000] {processor.py:157} INFO - Started process (PID=3310) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:33:03.746+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:33:03.748+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:33:03.748+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:33:03.749+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:33:03.762+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.087 seconds
+[2024-10-02T08:33:34.589+0000] {processor.py:157} INFO - Started process (PID=3336) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:33:34.590+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:33:34.591+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:33:34.591+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:33:34.592+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:33:34.599+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.011 seconds
+[2024-10-02T08:34:04.916+0000] {processor.py:157} INFO - Started process (PID=3362) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:34:04.933+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:34:04.934+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:34:04.934+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:34:04.935+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:34:04.944+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.029 seconds
+[2024-10-02T08:34:35.297+0000] {processor.py:157} INFO - Started process (PID=3388) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:34:35.298+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:34:35.299+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:34:35.298+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:34:35.299+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:34:35.307+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:35:05.647+0000] {processor.py:157} INFO - Started process (PID=3414) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:35:05.936+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:35:05.939+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:35:05.938+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:35:05.941+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:35:05.957+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.311 seconds
+[2024-10-02T08:35:36.300+0000] {processor.py:157} INFO - Started process (PID=3440) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:35:36.637+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:35:36.640+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:35:36.640+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:35:36.642+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:35:36.654+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.356 seconds
+[2024-10-02T08:36:07.085+0000] {processor.py:157} INFO - Started process (PID=3466) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:36:07.086+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:36:07.087+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:36:07.087+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:36:07.088+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:36:07.096+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.013 seconds
+[2024-10-02T08:36:37.453+0000] {processor.py:157} INFO - Started process (PID=3492) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:36:37.538+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:36:37.541+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:36:37.541+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:36:37.543+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:36:37.557+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.106 seconds
+[2024-10-02T08:37:08.160+0000] {processor.py:157} INFO - Started process (PID=3518) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:37:08.163+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:37:08.164+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:37:08.164+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:37:08.164+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:37:08.173+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:37:38.571+0000] {processor.py:157} INFO - Started process (PID=3544) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:37:38.572+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:37:38.573+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:37:38.573+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:37:38.574+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:37:38.581+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:38:08.919+0000] {processor.py:157} INFO - Started process (PID=3570) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:38:08.934+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:38:08.936+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:38:08.936+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:38:08.936+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:38:08.945+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.028 seconds
+[2024-10-02T08:38:39.273+0000] {processor.py:157} INFO - Started process (PID=3596) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:38:39.274+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:38:39.275+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:38:39.275+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:38:39.275+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:38:39.281+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.010 seconds
+[2024-10-02T08:39:09.778+0000] {processor.py:157} INFO - Started process (PID=3622) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:39:09.788+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:39:09.789+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:39:09.789+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:39:09.790+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:39:09.800+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.024 seconds
+[2024-10-02T08:39:40.672+0000] {processor.py:157} INFO - Started process (PID=3648) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:39:40.673+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:39:40.748+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:39:40.748+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:39:40.749+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:39:40.755+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.084 seconds
+[2024-10-02T08:40:11.299+0000] {processor.py:157} INFO - Started process (PID=3674) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:40:11.308+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:40:11.309+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:40:11.309+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:40:11.310+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:40:11.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.027 seconds
+[2024-10-02T08:40:41.661+0000] {processor.py:157} INFO - Started process (PID=3700) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:40:41.661+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:40:41.663+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:40:41.662+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:40:41.663+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:40:41.670+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.012 seconds
+[2024-10-02T08:41:12.079+0000] {processor.py:157} INFO - Started process (PID=3726) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:41:12.080+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:41:12.081+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:41:12.081+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:41:12.082+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:41:12.091+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.015 seconds
+[2024-10-02T08:47:52.547+0000] {processor.py:157} INFO - Started process (PID=74) to work on /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:47:52.594+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar for tasks to queue
+[2024-10-02T08:47:52.595+0000] {logging_mixin.py:151} INFO - [2024-10-02T08:47:52.595+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:47:52.596+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar
+[2024-10-02T08:47:52.603+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/jars/flink-avro-confluent-registry-1.17.1.jar took 0.057 seconds

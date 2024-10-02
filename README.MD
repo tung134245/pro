@@ -1,1 +1,2 @@
-bash stream/kafka/run.sh register_connector stream/kafka/configs/postgresql-cdc.json
+bash stream/run.sh register_connector stream/kafka/configs/postgresql-cdc.json
+bash ./flink/data_ingestion/kafka_connect/run.sh register_connector ./flink/data_ingestion/kafka_connect/configs/connect-timescaledb-sink.json

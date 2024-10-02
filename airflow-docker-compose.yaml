@@ -54,42 +54,57 @@ x-airflow-common:
   build: 
     context: .
     dockerfile: airflow-dockerfile
-  environment:
-    &airflow-common-env
+  environment: &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: CeleryExecutor
     AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
     # For backward compatibility, with Airflow <2.3
     AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
     AIRFLOW__CELERY__RESULT_BACKEND: db+postgresql://airflow:airflow@postgres/airflow
     AIRFLOW__CELERY__BROKER_URL: redis://:@redis:6379/0
-    AIRFLOW__CORE__FERNET_KEY: ''
-    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
-    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
-    AIRFLOW__API__AUTH_BACKENDS: 'airflow.api.auth.backend.basic_auth,airflow.api.auth.backend.session'
+    AIRFLOW__CORE__FERNET_KEY: ""
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    AIRFLOW__API__AUTH_BACKENDS: "airflow.api.auth.backend.basic_auth,airflow.api.auth.backend.session"
     # yamllint disable rule:line-length
     # Use simple http server on scheduler for health checks
     # See https://airflow.apache.org/docs/apache-airflow/stable/administration-and-deployment/logging-monitoring/check-health.html#scheduler-health-check-server
     # yamllint enable rule:line-length
-    AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: 'true'
+    AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: "true"
     # WARNING: Use _PIP_ADDITIONAL_REQUIREMENTS option ONLY for a quick checks
     # for other purpose (development, test and especially production usage) build/extend Airflow image.
+    # _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-minio==7.1.16 s3fs==0.4.2 pyarrow==16.1.0 pyspark==3.5.0}
     _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-}
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
-    - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
+    - ./config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/include:/opt/airflow/include
-    - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
+    # - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
+    - ./data:/opt/airflow/data
+    - ./scripts:/opt/airflow/dags/scripts
+    - ./utils:/opt/airflow/dags/utils
+    - ./jars:/opt/airflow/dags/scripts/jars
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    - //var/run/docker.sock:/var/run/docker.sock
   user: "${AIRFLOW_UID:-50000}:0"
-  depends_on:
-    &airflow-common-depends-on
+  depends_on: &airflow-common-depends-on
     redis:
       condition: service_healthy
     postgres:
       condition: service_healthy
 
 services:
+  # install-requirements:
+  #   <<: *airflow-common
+  #   container_name: install-requirements
+  #   build:
+  #     context: ./airflow
+  #   volumes:
+  #     - ./requirements.txt:/requirements.txt
+  #   depends_on:
+  #     - postgres
+  #     - redis
+
   postgres:
     image: postgres:13
     container_name: airflow-postgres
@@ -104,6 +119,7 @@ services:
       interval: 10s
       retries: 5
       start_period: 5s
+    #restart: always
 
   redis:
     image: redis:latest
@@ -116,6 +132,7 @@ services:
       timeout: 30s
       retries: 50
       start_period: 30s
+    #restart: always
 
   airflow-webserver:
     <<: *airflow-common
@@ -129,6 +146,7 @@ services:
       timeout: 10s
       retries: 5
       start_period: 30s
+    #restart: always
     depends_on:
       <<: *airflow-common-depends-on
       airflow-init:
@@ -144,6 +162,7 @@ services:
       timeout: 10s
       retries: 5
       start_period: 30s
+    #restart: always
     depends_on:
       <<: *airflow-common-depends-on
       airflow-init:
@@ -151,6 +170,8 @@ services:
 
   airflow-worker:
     <<: *airflow-common
+    tmpfs:
+      - "/opt/airflow/"
     container_name: airflow-worker
     command: celery worker
     healthcheck:
@@ -167,6 +188,7 @@ services:
       # Required to handle warm shutdown of the celery workers properly
       # See https://airflow.apache.org/docs/docker-stack/entrypoint.html#signal-propagation
       DUMB_INIT_SETSID: "0"
+    #restart: always
     depends_on:
       <<: *airflow-common-depends-on
       airflow-init:
@@ -177,11 +199,16 @@ services:
     container_name: airflow-triggerer
     command: triggerer
     healthcheck:
-      test: ["CMD-SHELL", 'airflow jobs check --job-type TriggererJob --hostname "$${HOSTNAME}"']
+      test:
+        [
+          "CMD-SHELL",
+          'airflow jobs check --job-type TriggererJob --hostname "$${HOSTNAME}"',
+        ]
       interval: 30s
       timeout: 10s
       retries: 5
       start_period: 30s
+    #restart: always
     depends_on:
       <<: *airflow-common-depends-on
       airflow-init:
@@ -257,11 +284,11 @@ services:
     # yamllint enable rule:line-length
     environment:
       <<: *airflow-common-env
-      _AIRFLOW_DB_MIGRATE: 'true'
-      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_DB_MIGRATE: "true"
+      _AIRFLOW_WWW_USER_CREATE: "true"
       _AIRFLOW_WWW_USER_USERNAME: ${_AIRFLOW_WWW_USER_USERNAME:-airflow}
       _AIRFLOW_WWW_USER_PASSWORD: ${_AIRFLOW_WWW_USER_PASSWORD:-airflow}
-      _PIP_ADDITIONAL_REQUIREMENTS: ''
+      _PIP_ADDITIONAL_REQUIREMENTS: ""
     user: "0:0"
     volumes:
       - ${AIRFLOW_PROJ_DIR:-.}:/sources
@@ -280,11 +307,33 @@ services:
       - -c
       - airflow
 
+  # # You can enable flower by adding "--profile flower" option e.g. docker-compose --profile flower up
+  # # or by explicitly targeted on the command line e.g. docker-compose up flower.
+  # # See: https://docs.docker.com/compose/profiles/
+  # flower:
+  #   <<: *airflow-common
+  #   container_name: airflow-flower
+  #   command: celery flower
+  #   profiles:
+  #     - flower
+  #   ports:
+  #     - "5555:5555"
+  #   healthcheck:
+  #     test: ["CMD", "curl", "--fail", "http://localhost:5555/"]
+  #     interval: 30s
+  #     timeout: 10s
+  #     retries: 5
+  #     start_period: 30s
+  #   #restart: always
+  #   depends_on:
+  #     <<: *airflow-common-depends-on
+  #     airflow-init:
+  #       condition: service_completed_successfully
+
   # Fix permission denied when using DockerOperator in Airflow
   # Ref: https://onedevblog.com/how-to-fix-a-permission-denied-when-using-dockeroperator-in-airflow/
   docker-proxy:
     image: tecnativa/docker-socket-proxy:0.1.1
-
     container_name: airflow-docker-proxy
     command: "TCP4-LISTEN:2375,fork,reuseaddr UNIX-CONNECT:/var/run/docker.sock"
     ports:
