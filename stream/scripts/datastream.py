@@ -13,7 +13,7 @@ from pyflink.datastream.connectors.kafka import (
 )
 
 # JARS_PATH = f"{os.getcwd()}/jars/"
-JARS_PATH = "/home/tung/Downloads/DE/Project-DE-K3_M2/jars/"
+JARS_PATH = "/home/tung/Downloads/DE_K3_M2/project/jars/"
 print(JARS_PATH)
 
 

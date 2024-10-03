@@ -16,3 +16,5 @@ PyYAML==6.0.1
 requests==2.31.0
 SQLAlchemy
 numpy
+minio==7.1.16
+deltalake==0.10.2

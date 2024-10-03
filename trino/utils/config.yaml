@@ -1,5 +1,5 @@
 folder_data:
-  folder_path: /home/tung/Downloads/nyc_taxi_data
+  folder_path: /home/tung/Downloads/DE_K3_M2/project/data/pump
 
 datalake:
   endpoint: localhost:9000

@@ -9,7 +9,7 @@ from postgresql_client import PostgresSQLClient
 load_dotenv()
 
 TABLE_NAME = "nyc_taxi_table"
-FOLDER_NAME = "/home/tung/Downloads/nyc_taxi_data"
+FOLDER_NAME = "/home/tung/Downloads/DE_K3_M2/nyc_taxi_data"
 
 def main():
     pc = PostgresSQLClient(

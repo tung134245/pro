@@ -26,7 +26,7 @@ services:
       CONNECT_VALUE_CONVERTER_SCHEMAS_ENABLE: true
       CONNECT_PLUGIN_PATH: '/usr/share/java,/etc/kafka-connect/jars'
     volumes:
-      - /home/tung/Downloads/DE/Project-DE-K3_M2/jars/:/etc/kafka-connect/jars
+      - /Downloads/DE_K3_M2/project/jars:/etc/kafka-connect/jars
 
 
   # Offline store
