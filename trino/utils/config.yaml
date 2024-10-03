@@ -1,0 +1,9 @@
+folder_data:
+  folder_path: /home/tung/Downloads/nyc_taxi_data
+
+datalake:
+  endpoint: localhost:9000
+  bucket_name: nyc-taxi-data
+  folder_name: pump
+  access_key: minio_access_key
+  secret_key: minio_secret_key
